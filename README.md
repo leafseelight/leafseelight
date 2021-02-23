@@ -17,11 +17,11 @@
 
 ### :mailbox: How to reach me : 
 [<img target="_blank" width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/master/images/wechart.png"/>](https://github.com/leafseelight/leafseelight/blob/master/images/qrcord.png)
-[<img target="_blank" width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/master/images/mail.png"/>](mailto:leafseelight@qq.com)
-<a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=772704457&website=www.oicqzone.com"><img width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/master/images/qq.png"/></a>
-[<img target="_blank" width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/master/images/csdn.png"/>](https://blog.csdn.net/qqHJQS)
-[<img target="_blank" width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/master/images/linkedin.png"/>](https://www.linkedin.com/in/vector-wang-ab042a10a/)
-[<img target="_blank" width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/master/images/twitter.png"/>](https://twitter.com/BMHJQS)
+[<img target="_blank" width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/master/images/mail.png"/>](mailto:2277284164@qq.com)
+<a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2277284164&website=www.oicqzone.com"><img width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/master/images/qq.png"/></a>
+[<img target="_blank" width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/master/images/csdn.png"/>](https://blog.csdn.net/jingleye)
+[<img target="_blank" width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/master/images/linkedin.png"/>](https://www.linkedin.com/in/%E8%A7%81%E5%85%89-%E5%8F%B6-816578122/)
+[<img target="_blank" width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/master/images/twitter.png"/>](https://twitter.com/xxx)
 
 
 
