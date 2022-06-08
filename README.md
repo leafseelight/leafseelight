@@ -33,7 +33,7 @@
 
 <details>
 <summary>⚡️更多关于我~</summary>
-<p align="center"><h3>海银智慧，热卖卷帘门控制器，有需要的私聊~</h3></p>
+<p align="center"><h3>nothing~</h3></p>
 </details>
 
 
