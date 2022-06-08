@@ -5,7 +5,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leafseelight" />
 
 
-<img src="https://github.com/leafseelight/leafseelight/blob/main/images/fun.gif" width = "400" height = "250" alt="Java是世界上最好的语言，不接受反驳" align=center />
+<img src="images/fun.gif" width = "400" height = "250" alt="Java是世界上最好的语言，不接受反驳" align=center />
 
 
 
