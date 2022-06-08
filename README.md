@@ -16,7 +16,7 @@
 
 
 ### :mailbox: How to reach me : 
-[<img target="_blank" width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/main/images/wechart.png"/>](https://github.com/leafseelight/leafseelight/blob/master/images/qrcord.png)
+[<img target="_blank" width = "35" height = "35" src="images/wechart.png"/>](images/qrcord.png)
 [<img target="_blank" width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/main/images/mail.png"/>](mailto:2277284164@qq.com)
 <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2277284164&website=www.oicqzone.com"><img width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/master/images/qq.png"/></a>
 [<img target="_blank" width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/main/images/csdn.png"/>](https://blog.csdn.net/jingleye)
