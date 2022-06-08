@@ -5,7 +5,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leafseelight" />
 
 
-<img src="images/fun.gif" width = "400" height = "250" alt="Java是世界上最好的语言，不接受反驳" align=center />
+<img src="https://github.com/leafseelight/leafseelight/blob/main/images/fun.gif" width = "400" height = "250" alt="Java是世界上最好的语言，不接受反驳" align=center />
 
 
 
@@ -16,7 +16,7 @@
 
 
 ### :mailbox: How to reach me : 
-[<img target="_blank" width = "35" height = "35" src="images/wechart.png"/>](https://github.com/leafseelight/leafseelight/blob/main/images/qrcord.png)
+[<img target="_blank" width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/main/images/wechart.png"/>](https://github.com/leafseelight/leafseelight/blob/main/images/qrcord.png)
 [<img target="_blank" width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/main/images/mail.png"/>](mailto:2277284164@qq.com)
 <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2277284164&website=www.oicqzone.com"><img width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/master/images/qq.png"/></a>
 [<img target="_blank" width = "35" height = "35" src="https://github.com/leafseelight/leafseelight/blob/main/images/csdn.png"/>](https://blog.csdn.net/jingleye)
